@@ -16,6 +16,9 @@ Shows detailed information and alerts for fraudulent transactions.
 4. CSV Data Analysis:
 Reads historical customer data from a CSV file to validate transactions.
 
+5. Admin Notification:
+Notifies the admin in case of fraudulent transactions with detailed information, enabling timely action.
+
 # Purpose:
 The project aims to:
 - Enhance the security of payment systems.
