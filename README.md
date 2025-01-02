@@ -9,7 +9,7 @@ Flags potentially fraudulent transactions for further review.
 2. API Integration:
 A simple REST API for checking transactions and displaying results dynamically.
 
-3.Real-Time Feedback:
+3. Real-Time Feedback:
 Displays a "Successful" message for valid transactions.
 Shows detailed information and alerts for fraudulent transactions.
 
