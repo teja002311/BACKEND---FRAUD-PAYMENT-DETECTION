@@ -1,14 +1,15 @@
 # BACKEND FOCUSED PROJECT: Fraud Payment Detection System (NODE.JS)
 The Fraud Payment Detection System is a backend application designed to identify and prevent fraudulent transactions in real-time. By analyzing transaction details against historical data and predefined rules, it ensures secure payment processing and protects users from financial fraud.
 # Key Features:
-- 1. Fraud Detection:
+
+1. Fraud Detection:
 Validates transactions based on average transaction amounts and country match.
 Flags potentially fraudulent transactions for further review.
 
-- 2. API Integration:
+2. API Integration:
 A simple REST API for checking transactions and displaying results dynamically.
 
-- 3.Real-Time Feedback:
+3.Real-Time Feedback:
 Displays a "Successful" message for valid transactions.
 Shows detailed information and alerts for fraudulent transactions.
 
